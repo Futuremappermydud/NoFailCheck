@@ -1,0 +1,23 @@
+{
+    "id": "NoFailCheck",
+    "name": "No Fail Check",
+    "author": "Futuremappermydud",
+    "description": [
+        
+    ],
+    "category": "Gameplay",
+    "gameVersion": "1.9.0",
+    "version": "0.1.0",
+    "platform": "Quest",
+    "components": [
+        {
+            "type": "HookMod",
+            "installAction": {
+                "installLibraryFile": "libnofailcheck.so"
+            },
+            "uninstallAction": {
+                "removeLibraryFile": "libnofailcheck.so"
+            }
+        }
+    ]
+}
