@@ -1,4 +1,4 @@
-# No Fail Check
+# No Fail Check for oculus quest
 
 ## Credits
 
